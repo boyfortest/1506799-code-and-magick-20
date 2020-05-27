@@ -1,2 +1,3 @@
-var isTrue = true;
-console.log(isTrue);
+'use strict'
+var value = 'Hello, world!';
+document.body.textContent = value;

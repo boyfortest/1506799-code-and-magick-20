@@ -1,2 +1,2 @@
-const isTrue = true;
+var isTrue = true;
 console.log(isTrue);

@@ -1,3 +1,3 @@
-'use strict'
+'use strict';
 var value = 'Hello, world!';
 document.body.textContent = value;
